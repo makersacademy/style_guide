@@ -1,5 +1,6 @@
 # Makers Academy Style Guide
 
+<<<<<<< HEAD
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](https://www.google.co.uk/search?q=electricity&source=lnms&tbm=isch&sa=X&ei=zmk6VdqmC--P7AbrsoHgCA&ved=0CAcQ_AUoAQ&biw=1440&bih=805#imgrc=_)
 
 A living document of styles at Makers Academy, with example HTML and CSS for constructing new parts of the website. Explore from [the main page](http://makersacademy.github.io/style_guide).
@@ -115,3 +116,6 @@ To achieve the main UX aims, Design:
 2. Try to obey the style guides set out in this README and elsewhere in the repo: if you want to break a guide, do so with good reason
 3. If you need to make a new component, read [this](developer-guide.md)
 4. Submit a PR for revision by the Makers Academy team.
+=======
+Style guides for Makers Academy so we have a consistency both when engineering and when coaching
+>>>>>>> 2b648fd59d0244413da5c9394bd18ff9229ce4de
