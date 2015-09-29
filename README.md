@@ -117,4 +117,3 @@ To achieve the main UX aims, Design:
 4. Submit a PR for revision by the Makers Academy team.
 =======
 Style guides for Makers Academy so we have a consistency both when engineering and when coaching
->>>>>>> 2b648fd59d0244413da5c9394bd18ff9229ce4de
