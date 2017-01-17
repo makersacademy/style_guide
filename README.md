@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](https://www.google.co.uk/search?q=electricity&source=lnms&tbm=isch&sa=X&ei=zmk6VdqmC--P7AbrsoHgCA&ved=0CAcQ_AUoAQ&biw=1440&bih=805#imgrc=_)
 
-A living document of styles at Makers Academy, with example HTML and CSS for constructing new parts of the website. Explore from [the main page](http://makersacademy.github.io/style_guide).
+A living document of styles at Makers Academy, with example HTML and CSS for constructing new parts of the website. Explore from [the main page](http://www.makersacademy.com/elements/).
 
 ### What's the rationale?
 
