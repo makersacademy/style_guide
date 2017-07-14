@@ -12,7 +12,7 @@ This is a guide to doing new things, or changing existing things, within the sty
 
 ##### 1. Sketch Component
 
-![Sketches for Media Component](guide-img/sketches.jpg)
+![Sketches for Media Component](guide-imgs/sketches.jpg)
 
 When sketching a component, try to use other components that exist. For example, say you need a two-up Radio Button list/Title and header. Since it's going to be placed directly on a page, it should be a _template_. We already have a **two-up block** template, so we'll add another _module_ ('public interface') to that.
 
@@ -22,7 +22,7 @@ We'll fill this template with existing group components where possible. Pick the
 
 Here's a sketch for the Radio List/Title template:
 
-![Sketch for Radio List/Title Component](guide-img/sketches-2.jpg)
+![Sketch for Radio List/Title Component](guide-imgs/sketches-2.jpg)
 
 ##### 2. Add the Component to the HTML samples
 
